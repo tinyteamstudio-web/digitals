@@ -1,0 +1,35 @@
+{
+  "categories": [
+    {
+      "name": "Business",
+      "templates": [
+        "resume-template",
+        "invoice-template",
+        "proposal-template"
+      ]
+    },
+    {
+      "name": "Creative",
+      "templates": [
+        "recipe-book",
+        "planner-calendar",
+        "portfolio-website"
+      ]
+    },
+    {
+      "name": "Funnels",
+      "templates": [
+        "lead-capture",
+        "booking-page",
+        "sales-funnel"
+      ]
+    },
+    {
+      "name": "Misc",
+      "templates": [
+        "feedback-form",
+        "newsletter-template"
+      ]
+    }
+  ]
+}
