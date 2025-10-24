@@ -1,0 +1,12 @@
+# Node / Build files
+node_modules/
+dist/
+.env
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Temporary / Cache
+.cache/
+.vscode/
