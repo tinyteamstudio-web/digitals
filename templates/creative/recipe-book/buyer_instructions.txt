@@ -1,0 +1,6 @@
+TinyTeamStudio — Recipe Book Instructions
+
+1) Replace cover.png with your book cover.
+2) Edit recipes/ files to add recipes (ingredients, steps).
+3) Use CSS to adjust typography for print/export.
+4) Zip folder for sale or deploy folder as demo.
