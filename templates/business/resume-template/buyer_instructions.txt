@@ -1,0 +1,6 @@
+TinyTeamStudio — Resume Template Instructions
+
+1) Edit index.html to replace name, contact, sections.
+2) Replace assets/images/avatar.png with your photo.
+3) Export to PDF for print (if included).
+4) Deploy via GitHub Pages or send zipped files to buyers.
