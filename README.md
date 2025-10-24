@@ -1,2 +1,2 @@
 # digitals
-Stop wasting time starting from scratch — explore ready-to-use digital templates, eBooks, and creative kits that help you launch beautifully.
+A growing collection of digital templates, eBooks, and creative kits by TinyTeamStudio.
