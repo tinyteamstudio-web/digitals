@@ -1,0 +1,93 @@
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #003D32;
+  color: #E6FFF9;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.hero {
+  padding: 4rem 1rem 2rem;
+  background: linear-gradient(180deg, #004D41 0%, #003D32 100%);
+  color: #A7F5E6;
+}
+
+.tagline {
+  color: #E6FFF9;
+  font-size: 1.2rem;
+}
+
+.container {
+  padding: 2rem;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.offer {
+  background: #004D41;
+  padding: 2rem;
+  border-radius: 16px;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.3);
+}
+
+h2 {
+  color: #A7F5E6;
+  margin-bottom: 1rem;
+}
+
+input {
+  width: 100%;
+  padding: 0.8rem;
+  margin: 0.5rem 0;
+  border-radius: 8px;
+  border: none;
+  font-size: 1rem;
+}
+
+button {
+  background: #00B8A9;
+  border: none;
+  padding: 0.9rem 2rem;
+  font-size: 1rem;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: 600;
+  color: #003D32;
+  margin-top: 1rem;
+}
+
+button:hover {
+  opacity: 0.9;
+}
+
+.note {
+  margin-top: 1rem;
+  font-size: 0.85rem;
+  color: #A7F5E6;
+}
+
+footer {
+  margin-top: 3rem;
+  padding: 1rem;
+  font-size: 0.9rem;
+  color: #A7F5E6;
+}
+
+a {
+  color: #00B8A9;
+  text-decoration: none;
+}
+
+.fade-in {
+  opacity: 0;
+  transform: translateY(15px);
+  animation: fadeInUp 1s forwards;
+}
+
+@keyframes fadeInUp {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
