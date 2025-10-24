@@ -1,0 +1,8 @@
+TinyTeamStudio — Buyer Instructions (short)
+
+1) Unzip the folder.
+2) Read the README.md inside the product folder.
+3) Edit: index.html -> change text, images, links
+4) Deploy: copy folder to repo and enable GitHub Pages
+5) Replace forms with your Formspree/Netlify endpoints
+6) Need help? support@tinyteamstudio.com
